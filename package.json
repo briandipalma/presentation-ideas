@@ -1,0 +1,22 @@
+{
+  "name": "presentation-ideas",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/briandipalma/presentation-ideas.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/briandipalma/presentation-ideas/issues"
+  },
+  "dependencies": {
+    "reveal.js": "~2.6.0",
+    "node-static": "~0.7.2"
+  }
+}
